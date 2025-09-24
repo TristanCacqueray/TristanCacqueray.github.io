@@ -15,7 +15,7 @@ I created bindings to many configuration format such as:
 
 - [dhall-ansible](https://github.com/softwarefactory-project/dhall-ansible) generated from the SchemaStore json schemas.
 - [dhall-containerfile](https://github.com/softwarefactory-project/dhall-containerfile)
-- [dhall-nodepool](https://github.com/podenv/podenv/blob/master/docs/discussions/dhall-configuration.md) generated from the voluptuous schemas.
+- [dhall-nodepool](https://github.com/softwarefactory-project/dhall-nodepool) generated from the voluptuous schemas.
 - [dhall-zuul](https://github.com/softwarefactory-project/dhall-zuul)
 
 I wrote an explanation for [[podenv]] [Using dhall for configuration?](https://github.com/podenv/podenv/blob/master/docs/discussions/dhall-configuration.md).
